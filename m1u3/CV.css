@@ -1,0 +1,28 @@
+h1{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: darkslategray;
+
+}
+h2{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: darkolivegreen;
+}
+.destacados{
+    color: orangered;
+    font-weight: bold;
+    font-style: italic;
+    width: 500px;
+}
+li{
+    background-color: aqua;
+    width: 200px;
+}
