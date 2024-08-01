@@ -18,9 +18,12 @@ p{
 }
 .destacados{
     color: orangered;
+    background-color: yellowgreen;
     font-weight: bold;
     font-style: italic;
     width: 500px;
+    box-shadow: 26px 32px 11px 0px rgba(0,0,0,0.75);
+    border-radius: 20px 20px 20px 20px;
 }
 li{
     background-color: aqua;
